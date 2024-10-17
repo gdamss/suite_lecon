@@ -1,0 +1,15 @@
+html{
+    /* font-size: 10px; */
+    font-size: 62.5%;
+}
+
+div{
+    font-size: 10px;
+}
+p{
+    font-size: 2rem;
+    line-height: 2rem;
+}
+ul{
+    font-size: 2rem;
+}
